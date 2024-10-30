@@ -136,8 +136,7 @@ $(document).ready(function () {
 
     });
 
-    
-
+   
     /********************** RSVP **********************/
     $('#rsvp-form').on('submit', function (e) {
         e.preventDefault();
