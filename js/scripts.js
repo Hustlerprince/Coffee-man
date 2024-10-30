@@ -169,6 +169,7 @@ $(document).ready(function () {
 
 /********************** Extras **********************/
 
+
 // Google map
 function initMap() {
     var location = {lat: 22.5932759, lng: 88.27027720000001};
