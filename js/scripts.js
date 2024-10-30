@@ -116,6 +116,7 @@ $(document).ready(function () {
             }
         });
     });
+    
     /***************** Smooth Scrolling ******************/
 
     $(function () {
@@ -138,6 +139,7 @@ $(document).ready(function () {
 
    
     /********************** RSVP **********************/
+    
     $('#rsvp-form').on('submit', function (e) {
         e.preventDefault();
         var data = $(this).serialize();
